@@ -66,7 +66,7 @@
 
 AI Visionary helps businesses become visible to AI agents by structuring data into ASR (AI Singular Record), offering audits, data structuring, and AI-readiness services. It operates from Geneva, providing AI optimization, data structuring, and digital knowledge representation for SMEs, freelancers, and public institutions.
 
-**Areas:** AI · Data-Structuring · AI-Readiness · Knowledge-Representation · Services
+**Areas:** Artificial Intelligence · Data-Structuring · AI-Readiness · Knowledge-Representation · Services
 
 ## AI Visionary on APIs.io
 
@@ -84,11 +84,17 @@ Everything profiled for AI Visionary is published on APIs.io rather than in this
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [ai-visionary-xyz-mcp.yml](https://apis.io/servers/ai-visionary-xyz/ai-visionary-xyz-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Ai Visionary Xyz Agentic Access](https://apis.io/agentic-access/ai-visionary-xyz/ai-visionary-xyz-agentic-access/)
+- [AI Visionary Agentic Access](https://apis.io/agentic-access/ai-visionary-xyz/ai-visionary-xyz-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -106,20 +112,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai Visionary Xyz Authentication](https://apis.io/security/ai-visionary-xyz/ai-visionary-xyz-authentication/)
-- [Ai Visionary Xyz Domain Security](https://apis.io/security/ai-visionary-xyz/ai-visionary-xyz-domain-security/)
+- [AI Visionary Authentication](https://apis.io/security/ai-visionary-xyz/ai-visionary-xyz-authentication/)
+- [AI Visionary Domain Security](https://apis.io/security/ai-visionary-xyz/ai-visionary-xyz-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Ai Visionary Xyz Scopes](https://apis.io/scopes/ai-visionary-xyz/ai-visionary-xyz-scopes/)
+- [AI Visionary Scopes](https://apis.io/scopes/ai-visionary-xyz/ai-visionary-xyz-scopes/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Ai Visionary Xyz Rate Limits](https://apis.io/rate-limits/ai-visionary-xyz/ai-visionary-xyz-rate-limits/)
+- [AI Visionary Rate Limits](https://apis.io/rate-limits/ai-visionary-xyz/ai-visionary-xyz-rate-limits/)
 
 ## Where to find this API
 
@@ -134,27 +140,27 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 40.9** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 33.9** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 71.7 |
 | Contract quality | 45.3 |
-| Contract governance | 79.1 |
-| Operational transparency | 24.2 |
+| Contract governance | 22.0 |
+| Operational transparency | 23.8 |
 | Developer ergonomics | 49.3 |
 | Access clarity | 0.0 |
 
-**Agent readiness 31.5** — agent-ready
+**Agent readiness 30.7** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
-| Idempotency | — |
+| Idempotency | na |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
@@ -163,7 +169,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
-| Dry Run Mode | — |
+| Dry Run Mode | na |
 | Delegated Identity | — |
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
@@ -171,8 +177,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | paginated |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai-visionary-xyz/](https://apis.io/providers/ai-visionary-xyz/).
 
